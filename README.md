@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Команды
 
 1) Создать виртуальное окружение
@@ -34,3 +35,6 @@ streamlit run .\stm.py
 
 flet -r c.py
 # calendar
+=======
+# streamlit-calendar
+>>>>>>> c6c30b1286b3886239817dcb65d80b5801be843f
